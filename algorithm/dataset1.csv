@@ -1,0 +1,101 @@
+company,job_position,degree,salary_more_than_100k
+Google,Software Engineer,Masters,1
+Amazon,Data Scientist,PhD,1
+Microsoft,System Administrator,Associates,0
+Facebook,Product Manager,Bachelors,1
+Apple,Marketing Specialist,Bachelors,0
+Google,Machine Learning Engineer,PhD,1
+Amazon,Cloud Architect,Masters,1
+Microsoft,IT Support,Associates,0
+Facebook,Frontend Developer,Bachelors,0
+Apple,Backend Developer,Masters,1
+Google,AI Researcher,PhD,1
+Amazon,Software Developer,Bachelors,0
+Microsoft,Security Engineer,Masters,1
+Facebook,Data Analyst,Bachelors,0
+Apple,Product Designer,Masters,1
+Google,Site Reliability Engineer,Masters,1
+Amazon,DevOps Engineer,Masters,1
+Microsoft,Database Administrator,Bachelors,0
+Facebook,UX Designer,Bachelors,0
+Apple,HR Manager,Bachelors,0
+Google,Infrastructure Engineer,Masters,1
+Amazon,Robotics Engineer,Masters,1
+Microsoft,Support Engineer,Bachelors,0
+Facebook,Policy Analyst,Bachelors,0
+Apple,QA Engineer,Bachelors,0
+Google,Cloud Engineer,PhD,1
+Amazon,AI Engineer,PhD,1
+Microsoft,Systems Analyst,Bachelors,0
+Facebook,Trust & Safety Analyst,Bachelors,0
+Apple,Supply Chain Analyst,Bachelors,0
+Google,Technical Lead,Masters,1
+Amazon,Data Engineer,Masters,1
+Microsoft,Web Developer,Bachelors,0
+Facebook,Mobile Developer,Bachelors,0
+Apple,Sales Manager,Bachelors,0
+Google,Product Owner,Masters,1
+Amazon,Solutions Architect,PhD,1
+Microsoft,Network Engineer,Associates,0
+Facebook,Operations Manager,Masters,1
+Apple,Content Strategist,Bachelors,0
+Google,Software Tester,Bachelors,0
+Amazon,Machine Learning Ops,Masters,1
+Microsoft,Application Support,Bachelors,0
+Facebook,Game Designer,Bachelors,0
+Apple,IT Consultant,Masters,1
+Google,Full Stack Developer,Masters,1
+Amazon,Information Security Analyst,Masters,1
+Microsoft,Technical Writer,Bachelors,0
+Facebook,Research Scientist,PhD,1
+Apple,Customer Experience Manager,Bachelors,0
+Google,Cloud Security Engineer,Masters,1
+Amazon,System Architect,Masters,1
+Microsoft,Technical Support,Associates,0
+Facebook,Graphic Designer,Bachelors,0
+Apple,Visual Designer,Bachelors,0
+Google,Backend Developer,Masters,1
+Amazon,Frontend Developer,Bachelors,0
+Microsoft,DevOps Engineer,Masters,1
+Facebook,Data Engineer,Masters,1
+Apple,Product Analyst,Bachelors,0
+Google,AI Product Manager,Masters,1
+Amazon,Site Reliability Engineer,Masters,1
+Microsoft,Help Desk Technician,Associates,0
+Facebook,Community Manager,Bachelors,0
+Apple,Instructional Designer,Masters,0
+Google,Research Scientist,PhD,1
+Amazon,Big Data Engineer,PhD,1
+Microsoft,Security Analyst,Masters,1
+Facebook,UI Designer,Bachelors,0
+Apple,Technical Account Manager,Bachelors,0
+Google,Engineering Manager,PhD,1
+Amazon,AI Strategist,PhD,1
+Microsoft,Systems Engineer,Bachelors,0
+Facebook,User Researcher,Bachelors,0
+Apple,Logistics Analyst,Bachelors,0
+Google,Software Architect,PhD,1
+Amazon,Cloud Platform Engineer,Masters,1
+Microsoft,Release Manager,Masters,1
+Facebook,Digital Marketing Analyst,Bachelors,0
+Apple,Instructional Technologist,Masters,0
+Google,Network Architect,Masters,1
+Amazon,Backend Engineer,Masters,1
+Microsoft,Data Warehouse Engineer,Masters,1
+Facebook,QA Tester,Bachelors,0
+Apple,Support Analyst,Bachelors,0
+Google,NLP Engineer,PhD,1
+Amazon,Solutions Engineer,Masters,1
+Microsoft,System Designer,Masters,1
+Facebook,Security Researcher,Masters,1
+Apple,Data Coordinator,Bachelors,0
+Google,Cloud Consultant,Masters,1
+Amazon,Platform Engineer,Masters,1
+Microsoft,Software Tester,Bachelors,0
+Facebook,Full Stack Developer,Masters,1
+Apple,Research Analyst,Bachelors,0
+Google,Performance Engineer,Masters,1
+Amazon,AI Model Trainer,PhD,1
+Microsoft,Technical Analyst,Bachelors,0
+Facebook,Support Specialist,Bachelors,0
+Apple,UI Developer,Bachelors,0
