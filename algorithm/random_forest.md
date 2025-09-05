@@ -139,4 +139,3 @@ Random Forest is an **ensemble learning algorithm** that builds multiple decisio
 - Overall, Random Forest is a **robust, reliable algorithm** that balances bias and variance, making it highly suitable for real-world applications in both structured business data and historical survival prediction tasks.  
 
 ---
-👉 Random Forest is a **robust, reliable algorithm** that balances bias and variance, making it highly suitable for real-world applications.
