@@ -29,7 +29,9 @@ Decision trees use measures of **impurity** to decide how to split data:
 1. **Entropy**  
    - Measures the randomness in data.  
    - Formula:  
-     Entropy = - Σ p_i log2(p_i)  
+    $$
+    Entropy = - \sum_{i=1}^{n} p_i \log_{2}(p_i)
+    $$
    - Lower entropy = purer split.
 
 2. **Information Gain**  
@@ -39,7 +41,9 @@ Decision trees use measures of **impurity** to decide how to split data:
 3. **Gini Index**  
    - Another impurity measure (used by default in scikit-learn).  
    - Formula:  
-     Gini = 1 - Σ p_i²
+$$
+Gini = 1 - \sum_{i=1}^{n} p_i^2
+$$
 
 4. **Pruning**  
    - Trees can become too complex and overfit.  
